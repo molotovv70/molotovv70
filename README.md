@@ -1,19 +1,4 @@
-<style>
-
-.main-image {
-    display: block;
-    margin: 0 auto;
-}
-
-.stack-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    column-gap: 10px;
-}
-
-</style>
-
+<link href="assets/style.css" rel="stylesheet"></link>
 
 ## ✏️ About Me
 
