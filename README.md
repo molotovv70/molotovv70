@@ -6,7 +6,7 @@ Fullstack PHP Developer.
 
 
 ## 🛠 Tech Stack:
-PHP, JS, TS, Laravel, Vue, InertiaJS, Nuxt.js, MySQL, Git, CI/CD
+PHP, JS, TS, Laravel, Vue, InertiaJS, Nuxt.js, MySQL, Git
 
 <div class="stack-container">
     <img src="assets/laravel.svg" alt="drawing" height="50"/>
