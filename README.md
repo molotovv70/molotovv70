@@ -2,7 +2,7 @@
 
 ## ✏️ About Me
 
-Fullstack PHP Developer with 2yr+ experience.
+Fullstack PHP Developer.
 
 
 ## 🛠 Tech Stack:
